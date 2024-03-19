@@ -1,5 +1,5 @@
 # SQL_PROJECTS
-# Music-store-database Analysis
+# Music-store-database Analysis.
 
 ## Project Overview
 This project involves analyzing data from a music store database to gain insights into various aspects of the business. Using SQL queries, we aim to answer questions related to sales, customer behavior, and overall performance of the store. The dataset contains information on albums, artists, customers, employees, genres, invoices, tracks, media types, and playlists.
